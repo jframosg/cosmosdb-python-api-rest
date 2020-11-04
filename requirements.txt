@@ -1,0 +1,4 @@
+Flask==1.1.2
+gunicorn>=19,<20
+azure-cosmos==4.0.0
+jsonschema==3.0.0a1
